@@ -95,6 +95,7 @@ Re-apply any new defaults as desired.
 | `rateprofile`    | index (0 to 2)                                 |
 | `rxrange`        | configure rx channel ranges (end-points) |
 | `save`           | save and reboot                                |
+| `serialpassthrough`                     | serial passthrough mode, reset board to exit   | 
 | `set`            | name=value or blank or * for list              |
 | `status`         | show system status                             |
 | `version`        |                                                |
